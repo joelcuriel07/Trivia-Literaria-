@@ -1,4 +1,4 @@
-Trvia Literaria 
+Trivia Literaria 
 html_content = """
 <!DOCTYPE html>
 <html lang="es">
