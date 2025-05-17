@@ -1,5 +1,4 @@
-# Trivia-Literaria-
-Juego de preguntas de literatura e historia por turno para 2 jugadores 
+Trvia Literaria 
 html_content = """
 <!DOCTYPE html>
 <html lang="es">
